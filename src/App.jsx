@@ -25,6 +25,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <h1> Próxima aula criar react routing baseado no projeto anterior - Repetir aula 18 do curso </h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
